@@ -12,11 +12,15 @@
 <p align="left"> <a href="https://twitter.com/mhdlilia" target="blank"><img src="https://img.shields.io/twitter/follow/mhdlilia?logo=twitter&style=for-the-badge" alt="mhdlilia" /></a> </p>
 
 
-- 🔭 I’m currently working on **AI Projects**
+- 🔭 I’m currently working on **DS & AI Projects**
 
 - 🌱 I’m currently learning **Data Science and Artificial Intelligence**
 
+- 👯 I’m looking to collaborate on **DL Projects**
+
 - 📫 How to reach me **jl_mahdid@esi.dz**
+
+- ⚡ Fun fact **Coffee is always a good idea!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,3 +42,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahdid-lilia&show_icons=true&locale=en" alt="mahdid-lilia" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdid-lilia&" alt="mahdid-lilia" /></p>
+
