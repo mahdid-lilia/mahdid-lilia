@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Lilia MAHDID </h1>
 <h3 align="center">Computer Science Student</h3>
-
+<p align="center">
 <img align="center" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahdid-lilia" alt="mahdid-lilia" /></a> 
