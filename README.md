@@ -21,6 +21,7 @@
 - 📫 How to reach me **jl_mahdid@esi.dz**
 
 - ⚡ Fun fact **Coffee is always a good idea!**
+<img align="center" alt="Lilia" width="200" src="https://drive.google.com/file/d/1CSqLBVYyYGfJDc0frB64C93xa3hE9c4P/view?usp=sharing">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
