@@ -43,5 +43,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdid-lilia&" alt="mahdid-lilia" /></p>
 
-
+![Snake Animation](https://github.com/mahdid-lilia/mahdid-lilia/blob/output/github-contribution-grid-snake2.svg)
 
