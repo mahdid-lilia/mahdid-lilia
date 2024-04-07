@@ -56,13 +56,11 @@
 
 
 <details align="center"> 
-  <summary>🔎 Discover Contribution Grid Snake Game 🔍</summary>
+  <summary>🔎 Show more 🔍</summary>
   <br/>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahdid-lilia/mahdid-lilia/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahdid-lilia/mahdid-lilia/output/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
-    </picture>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahdid-lilia" alt="mahdid-lilia" /></a> 
+</p>
+
   <br/>
 </details>
 
