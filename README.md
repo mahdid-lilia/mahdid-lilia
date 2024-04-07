@@ -7,7 +7,27 @@
   </a>
 </h1>
 
+
+<p align="center">
+  I am motivated to work on Data Science and Artificial intelligence projects. l am enthusiastic about learning new technologies and developing my knowledge. Seeking to leverage exemplary leadership, analytical, and problem-solving skills.
+  <br>
+  <br>
+  📫 How to reach me: <a href="mailto: jl_mahdid@esi.dz">jl_mahdid@esi.dz</a> | <a href="https://www.linkedin.com/in/lilia-mahdid-3688721b0/" title="Issues">LinkedIn</a>
+</p>
+
 [![](https://github.com/mahdid-lilia/mahdid-lilia/blob/main/Exploring%20the%20space%20of%20Data%20Science%20and%20Artificial%20Intelligence.gif)]()<!-- If you want the template for my gif, email me! -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mhdlilia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mhdlilia" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lilia-mahdid-3688721b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lilia mahdid" height="30" width="40" /></a>
+<a href="https://kaggle.com/lilia mahdid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lilia mahdid" height="30" width="40" /></a>
+<a href="https://fb.com/lilia mahdid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lilia mahdid" height="30" width="40" /></a>
+<a href="https://medium.com/@lilia mahdid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lilia mahdid" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/lilia01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lilia01" height="30" width="40" /></a>
+<a href="https://discord.gg/Lilia MAHDID#5855" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Lilia MAHDID#5855" height="30" width="40" /></a>
+</p>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
