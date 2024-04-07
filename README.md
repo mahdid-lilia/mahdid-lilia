@@ -1,4 +1,4 @@
-
+![snake animation](https://github.com/mahdid-lilia/mahdid-lilia/blob/output/github-contribution-grid-snake2.svg)
 <img align="right" src="https://komarev.com/ghpvc/?username=mahdid-lilia&label=Profile%20views&color=0e75b6&style=flat">
 
 <h1 align="center">
@@ -36,7 +36,7 @@
 
 
 <details align="center"> 
-  <summary>🔎 Discover Snake Game 🔍</summary>
+  <summary>🔎 Discover Contribution Grid Snake Game 🔍</summary>
   <br/>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahdid-lilia/mahdid-lilia/output/github-contribution-grid-snake-dark.svg">
