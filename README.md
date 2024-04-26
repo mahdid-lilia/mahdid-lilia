@@ -2,18 +2,24 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=mahdid-lilia&label=Profile%20views&color=0e75b6&style=flat">
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Lilia+MAHDID....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋; This+is+Lilia+MAHDID....;Nice+to+meet+you!&center=true&size=30">
 </h1>
 
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <img align ="right" src="https://github.com/mahdid-lilia/mahdid-lilia/blob/main/Exploring%20the%20Space%20of%20Data%20Science%20and%20Artificial%20Intelligence.gif" alt="Exploring the Space of Data Science and Artificial Intelligence" width="300">
+  </div>
+  <div style="flex: 2;">
+    <p align="left">
+      I am motivated to work on Data Science and Artificial intelligence projects. I am enthusiastic about learning new technologies and developing my knowledge. Seeking to leverage exemplary leadership, analytical, and problem-solving skills.
+      <br>
+      <br>
+      📫 How to reach me: <a href="mailto:jl_mahdid@esi.dz">Lilia.Mahdid@etu.uca.fr | jl_mahdid@esi.dz</a> | <a href="https://www.linkedin.com/in/lilia-mahdid-3688721b0/" title="Issues">LinkedIn</a>
+    </p>
+  </div>
+</div>
 
-<p align="center">
-  I am motivated to work on Data Science and Artificial intelligence projects. l am enthusiastic about learning new technologies and developing my knowledge. Seeking to leverage exemplary leadership, analytical, and problem-solving skills.
-  <br>
-  <br>
-  📫 How to reach me: <a href="mailto: jl_mahdid@esi.dz"> Lilia.Mahdid@etu.uca.fr | jl_mahdid@esi.dz </a> | <a href="https://www.linkedin.com/in/lilia-mahdid-3688721b0/" title="Issues">LinkedIn</a>
-</p>
-
-[![](https://github.com/mahdid-lilia/mahdid-lilia/blob/main/Exploring%20the%20space%20of%20Data%20Science%20and%20Artificial%20Intelligence.gif)]()<!-- If you want the template for my gif, email me! -->
+<!-- If you want the template for my gif, email me! -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
