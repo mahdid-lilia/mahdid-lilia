@@ -3,7 +3,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;TThis+is+Lilia+MAHDID....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Lilia+MAHDID&center=true&size=30....;Nice+to+meet+you!&center=true&size=30">
 </h1>
 
 <div style="display: flex; align-items: center;">
@@ -33,7 +33,9 @@
 <a href="https://discord.gg/Lilia MAHDID#5855" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Lilia MAHDID#5855" height="30" width="40" /></a>
 </p>
 
-<div> <h2 align="center">⚡ Stats ⚡</h2>
+
+<div>
+    <h2 align="center"> ⚡ Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
