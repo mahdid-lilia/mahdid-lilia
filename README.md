@@ -1,8 +1,9 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=mahdid-lilia&label=Profile%20views&color=0e75b6&style=flat">
 
+
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋; This+is+Lilia+MAHDID....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Lilia+MAHDID....;Nice+to+meet+you!&center=true&size=30">
 </h1>
 
 <div style="display: flex; align-items: center;">
