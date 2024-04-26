@@ -10,7 +10,7 @@
   I am motivated to work on Data Science and Artificial intelligence projects. l am enthusiastic about learning new technologies and developing my knowledge. Seeking to leverage exemplary leadership, analytical, and problem-solving skills.
   <br>
   <br>
-  📫 How to reach me: <a href="mailto: jl_mahdid@esi.dz">jl_mahdid@esi.dz</a> | <a href="https://www.linkedin.com/in/lilia-mahdid-3688721b0/" title="Issues">LinkedIn</a>
+  📫 How to reach me: <a href="mailto: jl_mahdid@esi.dz"> Lilia.Mahdid@etu.uca.fr | jl_mahdid@esi.dz </a> | <a href="https://www.linkedin.com/in/lilia-mahdid-3688721b0/" title="Issues">LinkedIn</a>
 </p>
 
 [![](https://github.com/mahdid-lilia/mahdid-lilia/blob/main/Exploring%20the%20space%20of%20Data%20Science%20and%20Artificial%20Intelligence.gif)]()<!-- If you want the template for my gif, email me! -->
