@@ -3,7 +3,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Lilia+MAHDID....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;TThis+is+Lilia+MAHDID....;Nice+to+meet+you!&center=true&size=30">
 </h1>
 
 <div style="display: flex; align-items: center;">
